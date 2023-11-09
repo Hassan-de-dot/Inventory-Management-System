@@ -1,0 +1,8 @@
+s 12 rock B 12 10 120.0 0
+l 1 water A 11 23 34.09 1
+s 12 rock B 12 10 120.0 0
+s 14 gold A 12 1 1555 0
+l 1 water A 11 23 34.09 1
+s 12 rock B 12 10 120.0 0
+l 1 water A 11 23 34.09 1
+s 14 gold A 12 1 1555 0
